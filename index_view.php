@@ -34,7 +34,11 @@
 </head>
 
 <body>
-	Testing by cws
+	<form method="post" action="">
+	<input type="text" name="email" value="">
+	<br>
+	<input type="submit" name="sub" value="Submit">
+	</form>
 </body>
 
 </html>
