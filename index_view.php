@@ -34,6 +34,7 @@
 </head>
 
 <body>
+	<?php echo "Testing"; ?>
 	<form method="post" action="">
 	<input type="text" name="email" value="">
 	<br>
