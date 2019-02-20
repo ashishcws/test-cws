@@ -1,5 +1,5 @@
 function getName($name)
 {
-	$name = "Ashish"
+	$name = "Ashish";
 return $name;
 }
